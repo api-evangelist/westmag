@@ -1,0 +1,55 @@
+# Western Magnetics (Westmag)
+
+> Western Magnetics ("Westmag") designs and manufactures BLDC drone motors and
+> robot actuators in South San Francisco, California — built and scaled in
+> America to serve the global drone and robotics sector. NDAA-compliant from
+> day one, with materials and components sourced from the US and allied nations.
+
+Westmag is building the great American motor company. Motors and actuators —
+which have mostly been manufactured overseas — are what make drones and robots
+move. Westmag is bringing that production back to the US with a vertically
+integrated platform spanning design, manufacturing, and supply chain. A drone
+motor sits at the heart of every robot actuator, so Westmag builds both; the
+shared architecture compounds into better performance and economies of scale.
+
+- **Company:** Western Magnetics Company (Westmag)
+- **Headquarters / Factory 01:** South San Francisco, California, USA
+- **Contact:** contact@westmag.com
+- **Sector:** Brushless DC (BLDC) motors and actuators for drones and robotics
+- **Differentiators:** US-made, NDAA-compliant, vertically integrated, US + allied-nation sourcing
+- **Investors:** Andreessen Horowitz (a16z), Founders Fund, Lux Capital, Menlo Ventures, NFDG
+- **Leadership:** David Hansen (Co-Founder & CEO), Jordan Sanders (Co-Founder & COO)
+
+## Products
+
+- **Drone Motors:** High-volume production across a range of BLDC motor types
+  for Group 1, 2, and 3 UAS platforms. 20–100 mm stators, 5″–50″ props, Kv
+  100–3,000, outrunner and inrunner.
+- **Robot Actuators:** Integrated actuators for humanoids and mobile robots.
+  Torque 1–150 Nm, 24–48 V, gearing 6:1–12:1.
+
+## Key pages
+
+- [Home](https://westmag.com/): Company overview, products, and technology.
+- [Careers](https://westmag.com/careers): Open roles in motor design, manufacturing engineering, production automation, firmware & controls, supply chain, and operations.
+- [About](https://westmag.com/#about): Why domestic motor manufacturing matters.
+- [Technology](https://westmag.com/#technology-start): The vertically-integrated platform.
+
+## Common questions
+
+- **What does Western Magnetics make?** BLDC drone motors and robot actuators,
+  designed and manufactured in the United States.
+- **Where are Westmag motors manufactured?** At Factory 01 in South San
+  Francisco, California.
+- **Are Westmag products NDAA-compliant?** Yes — NDAA-compliant from day one,
+  with materials and components sourced from the US and allied nations.
+- **Who are Westmag's customers?** Drone and robotics OEMs in commercial and
+  defense markets.
+- **Is Westmag hiring?** Yes — across engineering, manufacturing, and supply
+  chain. See https://westmag.com/careers.
+
+## Contact
+
+- Email: contact@westmag.com
+- LinkedIn: https://www.linkedin.com/company/116334022/
+- X: https://x.com/westmagco

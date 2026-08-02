@@ -1,7 +1,15 @@
 aid: westmag
 name: Westmag
-description: Westmag is a company surfaced as a portfolio company of menlo-ventures and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Western Magnetics (Westmag) designs and manufactures brushless DC (BLDC)
+  drone motors and robot actuators in South San Francisco, California. Built and scaled
+  in America and NDAA-compliant from day one, Westmag is a vertically integrated motor
+  company spanning design, manufacturing, and supply chain — producing high-volume
+  BLDC drone motors for Group 1, 2, and 3 UAS platforms (20-100mm stators, Kv 100-3,000,
+  outrunner and inrunner) and integrated actuators for humanoid and mobile robots
+  (torque 1-150Nm, 24-48V, gearing 6:1-12:1). Founded by David Hansen (CEO) and Jordan
+  Sanders (COO) and backed by Andreessen Horowitz, Founders Fund, Lux Capital, Menlo
+  Ventures, and NFDG. This is a hardware company; it currently exposes no public developer
+  API surface.
 url: https://raw.githubusercontent.com/api-evangelist/westmag/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +17,31 @@ x-backed-by:
 - menlo-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.westmag.com/westmag/logos/westmag-logo.svg
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Hardware
+- Robotics
+- Drones
+- Motors
+- Actuators
+- Manufacturing
+- BLDC
+- Defense
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +50,25 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://westmag.co
+  url: https://www.westmag.com/
+- type: About
+  url: https://westmag.com/#about
+- type: Careers
+  url: https://westmag.com/careers
+- type: PrivacyPolicy
+  url: https://westmag.com/privacy
+- type: TermsOfService
+  url: https://westmag.com/terms
+- type: Twitter
+  url: https://x.com/westmagco
+- type: LinkedIn
+  url: https://www.linkedin.com/company/116334022/
+- type: LLMsTxt
+  url: llms/westmag-llms.txt
+- type: DomainSecurity
+  url: security/westmag-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
